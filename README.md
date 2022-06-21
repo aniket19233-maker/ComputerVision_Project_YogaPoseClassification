@@ -2,9 +2,9 @@
 This was a Computer Vision Project which classified Yoga Poses using Features Extracted From Custom Features Created.
 
 
-# CSE 544 Machine Learning Project
+# CSE 544 Computer Vision Project
 
-## Rainfall Prediction using Machine Learning (T-28)
+## Yoga Pose Classification using Custom Features and Machine Learning (T-1)
 
 #### Work done as a part of the course CSE 544: Machine Learning by Prof. Koteshwar Rao JerriPothula.
 
@@ -27,7 +27,7 @@ This was a Computer Vision Project which classified Yoga Poses using Features Ex
 
 
 ## Methodology 
-#### We performed various ML methods and did analysis for both Oversampled and Undersampled dataset done through sklearn library.
+#### We performed various ML methods and did analysis of results obtained by our custom designed features and raw features obtained from media-pipe and also from the Yoga-82 dataset paper. 
 
 ![Pipeline](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Methodology-Pipeline/Work-Flow-Pipeline%20of%20our%20model.png  "Pipeline")
 
@@ -36,12 +36,12 @@ This was a Computer Vision Project which classified Yoga Poses using Features Ex
 
 ## Running the Code
 
-#### Download the entire repository and extract all the files to a folder.<br> There are 2 python notebooks, one for Oversampled data and another for Undersampled data.<br> They can be run using 'Run All' command in the respective IDE.
+#### Download the entire repository and extract all the files to a folder.<br> There is a python notebook which can be run to see the results mentioned in the [Report](https://github.com/aniket19233 maker/ComputerVision_Project_YogaPoseClassification/blob/main/Report/CV_Project_Report.pdf). 
 
 #### Code for Implementation : - <br> [KeyPoint Extraction + Custom Features + Training](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb) <br> 
 
 ## Results and Analysis
-#### Refer to [Report](https://github.com/RahulSethi070801/ML_Project/blob/main/Report_T28.pdf) for results and analysis(tables included)
+#### Refer to [Report](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Report/CV_Project_Report.pdf) for results and analysis(tables included)
 
 
 ## Contributors

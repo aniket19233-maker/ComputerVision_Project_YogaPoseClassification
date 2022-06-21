@@ -22,7 +22,8 @@ This was a Computer Vision Project which classified Yoga Poses using Features Ex
 ![DataSet Description](https://github.com/RahulSethi070801/ML_Project/blob/main/DataSet/Description.PNG?raw=true "DataSet Description")
 
 ## Feature Extraction
-#### All the keypoints obtained using media pipe helped us create the custom features [Feature/Keypoints Exraction](https://github.com/RahulSethi070801/ML_Project/tree/main/EDA%2BPreprocessing)
+#### All the keypoints obtained using media pipe helped us create the custom features 
+![Feature/Keypoints Exraction](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Methodology-Pipeline/mediapipe_extracted_features.png)
 
 
 ## Methodology 
@@ -30,17 +31,17 @@ This was a Computer Vision Project which classified Yoga Poses using Features Ex
 
 ![Pipeline](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Methodology-Pipeline/Work-Flow-Pipeline%20of%20our%20model.png  "Pipeline")
 
-![Pose-Correction Pipeline](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Methodology-Pipeline/Work-Flow-Pipeline%20of%20our%20model.png)
+
+![Pose-Correction Pipeline](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Methodology-Pipeline/pose-correction-pipeline.png "Pose-Correction Pipeline")
 
 ## Running the Code
 
 #### Download the entire repository and extract all the files to a folder.<br> There are 2 python notebooks, one for Oversampled data and another for Undersampled data.<br> They can be run using 'Run All' command in the respective IDE.
 
-#### Code for both parts : - <br> [Oversampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb) <br> [Undersampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_undersampled.ipynb)
+#### Code for Implementation : - <br> [KeyPoint Extraction + Custom Features + Training](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb) <br> 
 
 ## Results and Analysis
-#### Refer to [Report_28](https://github.com/RahulSethi070801/ML_Project/blob/main/Report_T28.pdf) for results and analysis(tables included)
-#### All the plots for results are added in the folder [Results](https://github.com/RahulSethi070801/ML_Project/tree/main/Results)
+#### Refer to [Report](https://github.com/RahulSethi070801/ML_Project/blob/main/Report_T28.pdf) for results and analysis(tables included)
 
 
 ## Contributors

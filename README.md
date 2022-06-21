@@ -19,7 +19,7 @@ This was a Computer Vision Project which classified Yoga Poses using Features Ex
 
 #### The dataset used in the Yoga - 82 dataset paper.
 
-![DataSet Description](https://github.com/RahulSethi070801/ML_Project/blob/main/DataSet/Description.PNG?raw=true "DataSet Description")
+![DataSet Description](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Dataset-Demonstration/Dataset.png "DataSet Description")
 
 ## Feature Extraction
 #### All the keypoints obtained using media pipe helped us create the custom features 
@@ -36,7 +36,7 @@ This was a Computer Vision Project which classified Yoga Poses using Features Ex
 
 ## Running the Code
 
-#### Download the entire repository and extract all the files to a folder.<br> There is a python notebook which can be run to see the results mentioned in the [Report](https://github.com/aniket19233 maker/ComputerVision_Project_YogaPoseClassification/blob/main/Report/CV_Project_Report.pdf). 
+#### Download the entire repository and extract all the files to a folder.<br> There is a python notebook which can be run to see the results mentioned in the [Report](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Report/CV_Project_Report.pdf). 
 
 #### Code for Implementation : - <br> [KeyPoint Extraction + Custom Features + Training](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb) <br> 
 

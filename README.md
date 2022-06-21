@@ -21,15 +21,16 @@ This was a Computer Vision Project which classified Yoga Poses using Features Ex
 
 ![DataSet Description](https://github.com/RahulSethi070801/ML_Project/blob/main/DataSet/Description.PNG?raw=true "DataSet Description")
 
-## EDA and Pre-Processing
-#### All the plots for EDA and Pre-processing are added in the folder [EDA+Preprocessing](https://github.com/RahulSethi070801/ML_Project/tree/main/EDA%2BPreprocessing)
+## Feature Extraction
+#### All the keypoints obtained using media pipe helped us create the custom features [Feature/Keypoints Exraction](https://github.com/RahulSethi070801/ML_Project/tree/main/EDA%2BPreprocessing)
 
 
 ## Methodology 
 #### We performed various ML methods and did analysis for both Oversampled and Undersampled dataset done through sklearn library.
 
-![Pipeline](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/tree/main/Methodology-Pipeline/Work-Flow-Pipeline of our model.png  "Pipeline")
+![Pipeline](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Methodology-Pipeline/Work-Flow-Pipeline%20of%20our%20model.png  "Pipeline")
 
+![Pose-Correction Pipeline](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Methodology-Pipeline/Work-Flow-Pipeline%20of%20our%20model.png)
 
 ## Running the Code
 

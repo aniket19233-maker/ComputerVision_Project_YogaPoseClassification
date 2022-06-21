@@ -1,12 +1,12 @@
-# ComputerVision_Project_YogaPoseClassification
+# Computer Vision Project YogaPoseClassification
 This was a Computer Vision Project which classified Yoga Poses using Features Extracted From Custom Features Created.
 
 
-# CSE 343 Machine Learning Project
+# CSE 544 Machine Learning Project
 
 ## Rainfall Prediction using Machine Learning (T-28)
 
-#### Work done as a part of the course CSE 343: Machine Learning by Prof. Jainendra Shukla.
+#### Work done as a part of the course CSE 544: Machine Learning by Prof. Koteshwar Rao JerriPothula.
 
 ## About the Project
 
@@ -28,7 +28,7 @@ This was a Computer Vision Project which classified Yoga Poses using Features Ex
 ## Methodology 
 #### We performed various ML methods and did analysis for both Oversampled and Undersampled dataset done through sklearn library.
 
-![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/Methodology/Pipeline.PNG "Pipeline")
+![Pipeline](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/tree/main/Methodology-Pipeline/Work-Flow-Pipeline of our model.png  "Pipeline")
 
 
 ## Running the Code

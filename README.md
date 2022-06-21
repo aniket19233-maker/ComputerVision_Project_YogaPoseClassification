@@ -38,7 +38,7 @@ This was a Computer Vision Project which classified Yoga Poses using Features Ex
 
 #### Download the entire repository and extract all the files to a folder.<br> There is a python notebook which can be run to see the results mentioned in the [Report](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Report/CV_Project_Report.pdf). 
 
-#### Code for Implementation : - <br> [KeyPoint Extraction + Custom Features + Training](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb) <br> 
+#### Code for Implementation : - <br> [KeyPoint Extraction + Custom Features + Training](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Yoga_classification_Project_Code/almost_done_lesser_features_pose_correction.ipynb) <br> 
 
 ## Results and Analysis
 #### Refer to [Report](https://github.com/aniket19233-maker/ComputerVision_Project_YogaPoseClassification/blob/main/Report/CV_Project_Report.pdf) for results and analysis(tables included)
